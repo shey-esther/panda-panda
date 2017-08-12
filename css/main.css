@@ -1,0 +1,40 @@
+body{
+	margin: 0px;
+	background:#212112;
+	border:0px;
+	box-sizing: border-box;
+	color: white;
+	font-family: 'Raleway', sans-serif;
+	font-size: 16px;
+}
+a{
+	background-color: #B22222;
+	display: inline-block;
+	text-decoration: none;
+	color:white;
+}
+header{
+	background-color: #B22222;
+}
+div{
+	text-align: center;
+	padding: 50px 0px 20px 50px;
+}
+#panditas.img{
+	background:#212112;
+	text-align: center;
+}
+.panda{
+	border:10px solid #808080;
+	margin: 20px;
+	filter: grayscale(100%);
+}
+button{
+	background-color: #B22222;
+	padding: 10px 150px;
+}
+.text{
+	font-size: 15px;
+	width: 450px;
+	display: inline-block;
+}
