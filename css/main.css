@@ -28,6 +28,8 @@ header{
 	padding: 100px 0px 80px 0px;
 }
 .panda{
+	width: 220px;
+	height: 220px;
 	border:10px solid #808080;
 	margin: 20px;
 	filter: grayscale(100%);
@@ -37,11 +39,15 @@ button{
 	padding: 10px 150px;
 }
 #text1{
+	margin: 20px;
+	text-align: justify;
 	font-size: 15px;
 	width: 450px;
 	display: inline-block;
 }
 #text2{
+	margin: 20px;
+	text-align: justify;
 	font-size: 15px;
 	width: 450px;
 	display: inline-block;
@@ -56,4 +62,5 @@ section{
 }
 .alinear{
 	display: inline-block;
+
 }
