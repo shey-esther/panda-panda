@@ -36,7 +36,8 @@ header{
 }
 button{
 	background-color: #B22222;
-	padding: 10px 150px;
+	padding: 10px 145px;
+	border-radius: 10px;
 }
 #text1{
 	margin: 20px;
